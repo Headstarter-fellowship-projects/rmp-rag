@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emma Thompson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Engaging lectures and fair exams. Dr. Thompson really knows how to make cell biology interesting!"
+    },
+    {
+      "professor": "Prof. David Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant teacher! His algorithms course was challenging but incredibly rewarding."
+    },
+    {
+      "professor": "Dr. Sarah Patel",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Decent course content, but lectures can be a bit dry. Appreciate the real-world examples though."
+    },
+    {
+      "professor": "Prof. Michael O'Brien",
+      "subject": "History",
+      "stars": 5,
+      "review": "Prof. O'Brien's passion for medieval history is contagious. Best class I've taken so far!"
+    },
+    {
+      "professor": "Dr. Lisa Yamamoto",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Quantum mechanics made (somewhat) understandable. Dr. Yamamoto is patient and explains complex concepts well."
+    },
+    {
+      "professor": "Prof. Robert Johnson",
+      "subject": "Mathematics",
+      "stars": 2,
+      "review": "Moves too fast through material. Often seems annoyed when students ask questions."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Eye-opening course on social inequalities. Dr. Garcia encourages critical thinking and lively debates."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "Chemistry",
+      "stars": 3,
+      "review": "Solid grasp of organic chemistry, but can be inconsistent with grading. Lab sessions are well-organized."
+    },
+    {
+      "professor": "Dr. Aisha Ahmed",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Insightful analysis of current political systems. Dr. Ahmed brings a global perspective to the class."
+    },
+    {
+      "professor": "Prof. Thomas Lee",
+      "subject": "Engineering",
+      "stars": 5,
+      "review": "Excellent at explaining complex engineering concepts. Always available for extra help."
+    },
+    {
+      "professor": "Dr. Emily White",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Passionate about Victorian literature. Assignments are creative and thought-provoking."
+    },
+    {
+      "professor": "Prof. Carlos Mendez",
+      "subject": "Economics",
+      "stars": 3,
+      "review": "Knowledgeable, but sometimes struggles to explain complex economic theories clearly."
+    },
+    {
+      "professor": "Dr. Samantha Brown",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. Brown's lectures are like time travel through art. Absolutely fascinating and engaging."
+    },
+    {
+      "professor": "Prof. Daniel Kim",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Challenges students to think deeply. Discussions in this ethics course were always lively."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Inspiring teacher who makes you want to save the planet. Field trips were a highlight."
+    },
+    {
+      "professor": "Prof. Alexander Ivanov",
+      "subject": "Linguistics",
+      "stars": 3,
+      "review": "Interesting subject matter, but Prof. Ivanov can be a bit disorganized at times."
+    },
+    {
+      "professor": "Dr. Olivia Taylor",
+      "subject": "Neuroscience",
+      "stars": 4,
+      "review": "Cutting-edge research integrated into the curriculum. Dr. Taylor is clearly passionate about brain science."
+    },
+    {
+      "professor": "Prof. William Chang",
+      "subject": "Statistics",
+      "stars": 2,
+      "review": "Material is very difficult and Prof. Chang isn't always clear in his explanations."
+    },
+    {
+      "professor": "Dr. Fatima Al-Rashid",
+      "subject": "International Relations",
+      "stars": 5,
+      "review": "Dr. Al-Rashid's firsthand diplomatic experience adds incredible value to the course. Highly recommended!"
+    },
+    {
+      "professor": "Prof. George Anderson",
+      "subject": "Music Theory",
+      "stars": 4,
+      "review": "Makes complex musical concepts accessible. Great balance of theory and practical application."
+    }
+  ]
+}
